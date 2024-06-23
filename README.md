@@ -1,4 +1,4 @@
-# Encrypted-File-Transfer-with-Client-Server (C++/Python)
+# Secure File Transfer with Client-Server Architecture (C++/Python)
 This project tackles secure file transfer, implementing a robust system with encryption and error handling.
 
 # Project Overview
