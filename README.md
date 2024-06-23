@@ -3,19 +3,15 @@ This project tackles secure file transfer, implementing a robust system with enc
 
 # Project Overview
 Clients can securely upload files to a server using features like:
-
-Client-Initiated Communication:
+* Client-Initiated Communication:
 Clients establish connections, exchange encryption keys, and upload encrypted files.
-
-Encrypted Transfers:
+* Encrypted Transfers:
 AES encryption with client-provided public keys ensures data privacy.
-
-File Verification:
+* File Verification:
 Checksums (CRC) on both client and server sides guarantee file integrity.
-
-Reliable Delivery:
+* Reliable Delivery:
 Automatic retries handle failed file transfers (up to 3 attempts).
 
 # Programming Languages:
-Server-Side: Python (version 3.11.4)
-Client-Side: C++
+* Server-Side: Python (version 3.11.4)
+* Client-Side: C++
